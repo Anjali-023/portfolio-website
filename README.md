@@ -1,6 +1,4 @@
-Here is a detailed `README.md` file for your project:  
 
-```markdown
 # Portfolio Website  
 
 This repository contains the source code for a responsive and visually appealing portfolio website. The website highlights personal skills, services, and projects, making it perfect for showcasing your professional profile.
@@ -16,7 +14,6 @@ This repository contains the source code for a responsive and visually appealing
 - **Responsive Design**: Fully responsive layout using HTML and CSS.  
 - **Interactive Icons**: Utilizes icons from the [Boxicons](https://boxicons.com/) library.  
 
----
 
 ## Getting Started  
 
@@ -75,14 +72,10 @@ Contributions are welcome! Feel free to open issues or submit pull requests.
 
 ---
 
-## License  
-This project is licensed under the [MIT License](LICENSE).  
-
----
 
 ### Author  
 **Anjali Aggarwal**  
 Frontend Developer | Robotics Enthusiast | Machine Learning Practitioner  
 ```  
 
-Replace placeholders like `your-username` and `LICENSE` as needed. Let me know if you need further customization!
+
