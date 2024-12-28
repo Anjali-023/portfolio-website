@@ -76,6 +76,6 @@ Contributions are welcome! Feel free to open issues or submit pull requests.
 ### Author  
 **Anjali Aggarwal**  
 Frontend Developer | Robotics Enthusiast | Machine Learning Practitioner  
-```  
+
 
 
